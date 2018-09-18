@@ -7,7 +7,7 @@ def inicializar():
         tab.append(linha)
     return tab
 
-de main( ):
+def main( ):
     jogo = inicializar( )
     print (jogo)
 
